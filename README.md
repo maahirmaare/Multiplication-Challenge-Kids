@@ -25,5 +25,5 @@ To run the app locally on your machine:
 
    ## Live Demo
 
-Check out the live demo of the game here: [Math Quiz for Kids](https://your-username.github.io/Math-Quiz-for-Kids/)
+Check out the live demo of the game here: [Math Quiz for Kids][(https://your-username.github.io/Math-Quiz-for-Kids](https://maahirmaare.github.io/Multiplication-Challenge-Kids/)
 
